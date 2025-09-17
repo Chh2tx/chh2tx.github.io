@@ -1,3 +1,3 @@
 [PlexTV](https://app.plex.tv/)
 
-<img src="images/plexapp.png" alt="Plex" class="inline"/>
+[![Plex](images/plexapp.png)](https://app.plex.tv/)
